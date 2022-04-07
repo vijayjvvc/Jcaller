@@ -1,5 +1,4 @@
 [{
-  "CallLog" : {
     "1299" : {
       "contactName" : "Unknown",
       "phNumber" : "1299"
@@ -20,5 +19,5 @@
       "contactName" : "Devender Fufa",
       "phNumber" : "9999924466"
     }
-  }
+  
 }]
